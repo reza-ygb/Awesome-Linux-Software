@@ -809,7 +809,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/sharkwouter/minigalaxy) [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - A simple GOG client for Linux.
 - [![Open-Source Software][oss icon]](https://repository.playonlinux.com/) [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine.
 - [Steam](https://store.steampowered.com/) - Gaming store, which opens the gates to many games.
-
+- - [![Open-Source Software][oss icon]](https://github.com/reza-ygb/apex-launcher) [APEX Launcher](https://github.com/reza-ygb/apex-launcher) — Lightweight Linux application launcher (GUI and CLI) that auto-detects installed apps; packages available for .deb, .rpm, AppImage, AUR, and Docker. (by reza-ygb).
 ##### Tools
 
 - [![Open-Source Software][oss icon]](https://github.com/PhilipK/BoilR) [BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library.
